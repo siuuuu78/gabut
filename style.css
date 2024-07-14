@@ -19,12 +19,7 @@ body {
   justify-content: center;
   align-items: center;
 }
-h2 {
-  position: absolute;
-  top: 70px;
-  text-align: center;
-  width: 100%;
-}
+
 canvas {
   width: 100dvmin;
   aspect-ratio: 1;
